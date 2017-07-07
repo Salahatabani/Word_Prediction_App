@@ -1,6 +1,7 @@
 # Next Word Prediction
 The is a simple web app (shinyapp) to predict the next word in a sentence. An example of application is the texting word prediction on your phone.
 I developed this app for the [data science specialization](https://www.coursera.org/specializations/jhu-data-science?utm_source=gg&utm_medium=sem&campaignid=313639147&adgroupid=35684912840&device=c&keyword=executive%20data%20science%20coursera&matchtype=b&network=g&devicemodel=&adpostion=1t1&creativeid=189171011897&hide_mobile_promo&gclid=CjwKEAjw4vzKBRCt9Zmg8f2blgESJADN5fDg-r4XGA_gMNuFUgn3FsGhwHdk-ROxASsK5Prt9L-ZLRoCJDrw_wcB) on Coursera.
+
 [Click here](https://salah.shinyapps.io/ShinyTest/) to use the app
 ## Dataset
 contains the corpus, which is some web scrapped blog articles, news and twitter data. It also includes the output of Data_processing.R
